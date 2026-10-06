@@ -1,0 +1,7 @@
+interface:
+  display_name: "Impeccable Review Loop"
+  short_description: "Repeated UI audit, critique, and remediation"
+  default_prompt: "Use $impeccable-review-loop with targets: any for five evidence-driven UI improvement cycles."
+
+policy:
+  allow_implicit_invocation: false

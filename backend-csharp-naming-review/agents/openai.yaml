@@ -1,0 +1,6 @@
+interface:
+  display_name: "Backend C# Naming Review"
+  short_description: "Review backend C# names with source context"
+  default_prompt: "Use $backend-csharp-naming-review to review the next backend C# naming batch and record the findings."
+policy:
+  allow_implicit_invocation: false

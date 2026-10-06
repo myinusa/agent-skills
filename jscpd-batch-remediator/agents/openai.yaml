@@ -1,0 +1,6 @@
+interface:
+  display_name: "JSCPD Batch Remediator"
+  short_description: "Deterministic duplicate cleanup in structural batches"
+  default_prompt: "Use $jscpd-batch-remediator with the requested profile to regenerate the current jscpd worklist, fix the next batch of duplicate clusters, and report fixed plus skipped cluster IDs with reasons."
+policy:
+  allow_implicit_invocation: false

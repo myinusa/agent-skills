@@ -1,0 +1,7 @@
+interface:
+  display_name: "OpenCode Image to Code"
+  short_description: "Faithful UI reproduction with joint visual review"
+  default_prompt: "Use $opencode-image-to-code to reproduce this UI image as a new page in the current project."
+
+policy:
+  allow_implicit_invocation: false

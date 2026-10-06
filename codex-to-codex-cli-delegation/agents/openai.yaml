@@ -1,0 +1,6 @@
+interface:
+  display_name: "Codex Delegation"
+  short_description: "Delegate work to resumable Codex CLI workers"
+  default_prompt: "Use $codex-to-codex-cli-delegation to delegate this work and review the result through completion."
+policy:
+  allow_implicit_invocation: false

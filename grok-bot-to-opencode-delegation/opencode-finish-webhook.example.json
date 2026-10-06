@@ -1,0 +1,4 @@
+{
+  "url": "https://routine-endpoint.example/webhook",
+  "senderKey": "REPLACE_WITH_ROUTINE_SENDER_KEY"
+}

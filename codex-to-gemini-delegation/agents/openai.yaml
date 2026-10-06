@@ -1,0 +1,7 @@
+interface:
+  display_name: "Gemini Delegation"
+  short_description: "Delegate and review Gemini work until acceptance"
+  default_prompt: "Use $codex-to-gemini-delegation to delegate this task to Gemini, assess the result, and return correction passes until acceptance."
+
+policy:
+  allow_implicit_invocation: false

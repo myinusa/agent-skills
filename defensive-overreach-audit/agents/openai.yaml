@@ -1,0 +1,6 @@
+interface:
+  display_name: "Defensive Overreach Audit"
+  short_description: "Audit excessive defensive coding or process overhead"
+  default_prompt: "Use $defensive-overreach-audit to inspect <path> for excessive defensive coding or process overhead and save a markdown audit report."
+policy:
+  allow_implicit_invocation: false

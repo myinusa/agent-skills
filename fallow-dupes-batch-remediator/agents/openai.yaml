@@ -1,0 +1,6 @@
+interface:
+  display_name: "Fallow Dupes Batch Remediator"
+  short_description: "Deterministic duplicate cleanup for Foundry source scopes"
+  default_prompt: "Use $fallow-dupes-batch-remediator to regenerate the current source dupes report, select the next deterministic family batch, and remediate those duplicates."
+policy:
+  allow_implicit_invocation: false

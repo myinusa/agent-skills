@@ -1,0 +1,7 @@
+interface:
+  display_name: "Public release audit"
+  short_description: "Audit and remediate projects before public release"
+  default_prompt: "Use $public-release-audit to audit the project directory I supply and write a concise Markdown report."
+
+policy:
+  allow_implicit_invocation: false
